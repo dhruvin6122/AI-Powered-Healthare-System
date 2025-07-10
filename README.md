@@ -23,6 +23,7 @@ A full-stack AI-powered healthcare web application built with **Django** and **M
 After selecting symptoms and submitting, the system returns:
 
 - ✅ Predicted **Disease Name**
+- 💊 **Medicine Recommendations**
 - 🍽️ Recommended **Diet Plan**
 - ✅ **Do’s**
 - ❌ **Don'ts**
